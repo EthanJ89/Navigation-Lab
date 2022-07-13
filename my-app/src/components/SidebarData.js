@@ -8,9 +8,9 @@ import CropOriginalIcon from '@mui/icons-material/CropOriginal';
 
 export const SidebarData=[
     {
-title:"home",
-icon:<HomeIcon></HomeIcon>,
-link:"/home"
+        title:"home",
+        icon:<HomeIcon></HomeIcon>,
+        link:"/home"
     },
     {
         title: "Mail",
@@ -34,7 +34,7 @@ link:"/home"
     },
     {
         title: "Images",
-        Icon: <CropOriginalIcon />,
+        icon: <CropOriginalIcon />,
         link: "/images"
     }
 ]

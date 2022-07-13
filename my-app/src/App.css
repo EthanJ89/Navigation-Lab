@@ -9,5 +9,21 @@
 .Sidebar{
   height: 100%;
   width: 250px;
-  background-color: darkgray;
+  background-color: midnightblue;
+  text-emphasis-color: gold;
+  text-align: left;
+}
+
+.Icon{
+  color: deepskyblue;
+  display: inline-block;
+}
+
+.Text{
+  color: chartreuse;
+  display: inline-block;
+}
+
+.Hover:hover{
+  background-color: chocolate;
 }
